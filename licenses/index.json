@@ -1,0 +1,122 @@
+[
+  {
+    "package": "@fontsource-variable/noto-sans-sc",
+    "version": "5.3.1",
+    "license": "OFL-1.1",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "@fontsource-variable/roboto",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "@ijprest/kle-serial",
+    "version": "0.15.1",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "@noble/hashes",
+    "version": "2.4.0",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "fflate",
+    "version": "0.8.3",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "json5",
+    "version": "2.2.3",
+    "license": "MIT",
+    "notices": [
+      "LICENSE.md"
+    ]
+  },
+  {
+    "package": "lucide-react",
+    "version": "0.468.0",
+    "license": "ISC",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "polygon-clipping",
+    "version": "0.15.7",
+    "license": "MIT",
+    "notices": [
+      "LICENSE.md"
+    ]
+  },
+  {
+    "package": "react",
+    "version": "19.2.7",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "react-dom",
+    "version": "19.2.7",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "robust-predicates",
+    "version": "3.0.3",
+    "license": "Unlicense",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "scheduler",
+    "version": "0.27.0",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "splaytree",
+    "version": "3.2.3",
+    "license": "MIT",
+    "notices": [
+      "LICENSE.txt (from Readme.md)"
+    ]
+  },
+  {
+    "package": "three",
+    "version": "0.186.1",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "zod",
+    "version": "4.6.7",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  }
+]
