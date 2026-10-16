@@ -2,7 +2,7 @@
 
 Temporary public preview of Yobboy Studio.
 
-Website: https://yobby0402.github.io/yobboy-kbd-preview/
+Website: https://kbd.deeprock.ren/
 
 This repository contains only reviewed, compiled website assets and third-party
 license notices. It does not contain the private development repository,
