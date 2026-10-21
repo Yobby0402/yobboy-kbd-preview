@@ -1,5 +1,13 @@
 [
   {
+    "package": "@fontsource-variable/jetbrains-mono",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
     "package": "@fontsource-variable/noto-sans-sc",
     "version": "5.3.1",
     "license": "OFL-1.1",
@@ -8,7 +16,39 @@
     ]
   },
   {
+    "package": "@fontsource-variable/noto-serif-sc",
+    "version": "5.3.1",
+    "license": "OFL-1.1",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "@fontsource-variable/oswald",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
     "package": "@fontsource-variable/roboto",
+    "version": "5.3.0",
+    "license": "OFL-1.1",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "@fontsource-variable/roboto-slab",
+    "version": "5.3.0",
+    "license": "Apache-2.0",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
+    "package": "@fontsource/great-vibes",
     "version": "5.3.0",
     "license": "OFL-1.1",
     "notices": [
@@ -32,11 +72,27 @@
     ]
   },
   {
+    "package": "@xmldom/xmldom",
+    "version": "0.9.12",
+    "license": "MIT",
+    "notices": [
+      "LICENSE"
+    ]
+  },
+  {
     "package": "fflate",
     "version": "0.8.3",
     "license": "MIT",
     "notices": [
       "LICENSE"
+    ]
+  },
+  {
+    "package": "gsap",
+    "version": "3.15.0",
+    "license": "Standard 'no charge' license: https://gsap.com/standard-license.",
+    "notices": [
+      "LICENSE-NOTICE.txt"
     ]
   },
   {
@@ -100,7 +156,7 @@
     "version": "3.2.3",
     "license": "MIT",
     "notices": [
-      "LICENSE.txt (from Readme.md)"
+      "LICENSE.txt"
     ]
   },
   {
